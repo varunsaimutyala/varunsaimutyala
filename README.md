@@ -38,6 +38,8 @@
 An automated for food ordering. High performance and scalable architecture.
 **Built With:** `Python` `FastAPI` `PostgreSQL`
 
+### 1. [AI TRIP PLANNER](https://maro-sandy.vercel.app/)
+
 ---
 
 ## 🎯 Areas of Interest
