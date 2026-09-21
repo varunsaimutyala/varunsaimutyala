@@ -40,7 +40,7 @@ An automated for food ordering. High performance and scalable architecture.
 
 ### 2. [Intelli Trip](https://maro-sandy.vercel.app/)
 An automated for food ordering. High performance and scalable architecture.
-Built With: 'Python' 'FastAPI' 'PostgreSQL'
+**Built With:** 'Python' 'FastAPI' 'PostgreSQL'
 
 ---
 
