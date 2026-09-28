@@ -78,7 +78,7 @@ An automated for food ordering. High performance and scalable architecture.
 - 📧 **Email:** [varunsaim2005@gmail.com](mailto:varunsaim2005@gmail.com)
 - **Phone Number:** [+91-9063371181](tel:+9063371181)
 - 💼 **LinkedIn:** [My_linkedin](https://www.linkedin.com/in/varun-sai-mutyala-993a3a284)
-- 🌐 Portfolio: MyPortfolio(https://varunsaimutyala.github.io/portfolio/)
+- 🌐 Portfolio:** [MyPortfolio](https://varunsaimutyala.github.io/portfolio/)
   
 
 
